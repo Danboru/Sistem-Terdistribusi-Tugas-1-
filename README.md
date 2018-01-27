@@ -80,3 +80,6 @@
 
 <img src="https://github.com/Danboru/Sistem-Terdistribusi-Tugas-1-/blob/master/Images/3.png?raw=true"  width="400" height="400" />
 
+# Demo App
+- Buka Link Berikut untuk melihat demo
+https://youtu.be/vfZDMh9-_QM
