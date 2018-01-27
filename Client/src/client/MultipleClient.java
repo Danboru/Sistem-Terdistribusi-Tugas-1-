@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+/**
+ *
+ * @author danbo
+ */
 public class MultipleClient {
 
     public static void main(String[] args) {
